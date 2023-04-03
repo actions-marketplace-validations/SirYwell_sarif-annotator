@@ -27,7 +27,7 @@
   "license": "MIT",
   "dependencies": {
     "@actions/core": "^1.6.0",
-    "@actions/github": "^5.0.0",
+    "@actions/github": "^5.1.1",
     "@actions/io": "^1.1.1",
     "@types/sarif": "^2.1.4",
     "ramda": "^0.27.1"
